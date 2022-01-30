@@ -13,6 +13,8 @@ In this pack developed mentioned methods:
 -10: Power Method                       => Finding eigenvector and eigenvalue
 
 
-- *I take no responsibilities for any errors in the code or damage thereby.*
-- *Please notify me at zolfaghari1992iut@gmail.com if the code is used in any type of application.*
+
+
+*I take no responsibilities for any errors in the code or damage thereby.*
+*Please notify me at zolfaghari1992iut@gmail.com if the code is used in any type of application.*
 
