@@ -10,7 +10,7 @@ In this pack developed mentioned methods:
 - 7: Jacobi Iterativen Method           => Solving Ax = b
 - 8: Newton Method                      => Interpolation
 - 9: Newton Divided Difference Method   => Interpolation
--10: Power Method                       => Finding eigenvector and eigenvalue
+- 10: Power Method                       => Finding eigenvector and eigenvalue
 
 
 
